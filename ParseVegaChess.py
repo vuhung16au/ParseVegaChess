@@ -60,15 +60,54 @@ def get_player_results(results, position):
     
     return opponent_info
 
-filename = '2024citySydneyBlitz.txt'
-parsed_results = parse_chess_results(filename)
-for result in parsed_results:
-    print(result)
+def print_round(results, round_number):
+    pairings = []
     
-pos_list = [1, 2, 3, 4, 10, 20, 30, 40, 85, 86]
+    for player in results:
+        for i, round_info in enumerate(player['Rounds']):
+            if i + 1 == round_number:
+                opponent_position = round_info['opponent']
+                opponent = next((p for p in results if p['Pos'] == opponent_position), None)
+                if opponent:
+                    pairings.append({
+                        'player': player['Name'],
+                        'opponent': opponent['Name'],
+                        'result': round_info['outcome'],
+                        'color': round_info['color']
+                    })
+    
+    if not pairings:
+        print(f"No pairings found for round {round_number}")
+        return
+    
+    print(f"Pairings for round {round_number}:")
+    for pairing in pairings:
+        print(f"{pairing['player']} vs {pairing['opponent']} ({pairing['color']}, result: {pairing['result']})")
 
-for position in pos_list:
-    print("player " + str(position) + ":")
-    player_results = get_player_results(parsed_results, position)
-    for result in player_results:
-        print(result)
+
+# filename = '2024citySydneyBlitz.txt'
+filename = '2024NSWRapid.txt'
+parsed_results = parse_chess_results(filename)
+
+# Print the pairing for a round
+# round_number = int(input("Enter the round number: "))
+# print_round(parsed_results, round_number)
+
+# print all players
+# for result in parsed_results:
+#     print(result)
+    
+# pos_list = [1, 2, 3, 4, 10, 20]
+
+# for position in pos_list:
+#    print("player " + str(position) + ":")
+#    player_results = get_player_results(parsed_results, position)
+#     for result in player_results:
+#         print(result)
+
+position = int(input("Enter the player number: "))
+
+print("player " + str(position) + ":")
+player_results = get_player_results(parsed_results, position)
+for result in player_results:
+    print(result)
