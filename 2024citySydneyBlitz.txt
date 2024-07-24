@@ -1,0 +1,93 @@
+2024 City of Sydney Blitz
+Sydney - 03/03/2024, 03/03/2024
+
+ Cross Table at round 9 sorted by score
+
+Pos NAME                           Rtg   T  Fed  Pts |   1     2     3     4     5     6     7     8     9    |   User 
+-----------------------------------------------------------------------------------------------------------------------
+  1 Le,Tri Kien                    2367  CM  OS  8.5 | +W56  +B37  +W30  +B19  +W25  +B2   +W9   +B3   =W4    |    0.0 
+  2 Chakrabarty,Reyaansh           2210     NSW  7.5 | +W73  +B20  +W27  +B10  =W3   -W1   +B8   +B25  +W6    |    0.0 
+  3 Banerjee,Niki                  2141     NSW  7.0 | +B35  +W34  +B11  =W4   =B2   +W21  +B10  -W1   +B13   |    0.0 
+  4 Ng,Clive                       2289  FM NSW  7.0 | +W67  +B23  +W32  =B3   =W12  +B20  +W25  =B6   =B1    |    0.0 
+  5 Huynh,Arthur                   2167     NSW  7.0 | +W74  -B27  +W49  -B14  +W36  +B23  +W37  +B12  +W9    |    0.0 
+  6 Yu,Allen                       2246     NSW  6.5 | =BYE  +W42  =B17  +W34  +B14  +B12  +W15  =W4   -B2    |    0.0 
+  7 Wijaya,Anton                   2237     INA  6.5 | +W59  +B14  =W12  =B15  -W20  +B66  +W17  =B11  +W22   |    0.0 
+  8 Salim,Osama                    2369      OS  6.5 | +B46  =W17  -B26  +W38  +B43  +W22  -W2   +B24  +W20   |    0.0 
+  9 Scott,Ridley                   2289     VIC  6.0 | -B44  +W51  +B46  +W48  +B18  +W13  -B1   +W16  -B5    |    0.0 
+ 10 Li,Zuhao (Luke)                2325  FM  OS  6.0 | +B49  +W24  +B18  -W2   =B22  +W41  -W3   +B21  =W11   |    0.0 
+ 11 Paulite,Christian Carlo        1903     NSW  6.0 | +B50  +W31  -W3   +B32  +W19  -B25  +B26  =W7   =B10   |    0.0 
+ 12 Chan,Nestor                    2051     NSW  6.0 | +B55  +W29  =B7   +W26  =B4   -W6   +B44  -W5   +B34   |    0.0 
+ 13 Miscenko,Dmitry                2052     NSW  6.0 | +W68  +B41  -W25  +B36  +W28  -B9   +W27  +B19  -W3    |    0.0 
+ 14 Anup Kumar,Vihaan              1966     NSW  6.0 | +B71  -W7   +B45  +W5   -W6   +B28  -W19  +B52  +W32   |    0.0 
+ 15 Yu,Changhao                    2145     NSW  6.0 | =BYE  +B64  +W53  =W7   +B29  +W44  -B6   =B20  =W19   |    0.0 
+ 16 Rupasinghe,Sayum               2047     NSW  6.0 | +W75  +B33  -W19  -B44  +W47  +B39  +W29  -B9   +W27   |    0.0 
+ 17 Jiang,Benjamin Wise            2027     NSW  6.0 | +B63  =B8   =W6   +W52  -B21  +W40  -B7   +W54  +B25   |    0.0 
+ 18 Zheng,Shucheng                 2108     NSW  6.0 | +W77  +B39  -W10  +B27  -W9   +B52  -W20  +B46  +W37   |    0.0 
+ 19 Zvedeniouk,Ilia                2179     NSW  5.5 | +B65  +W40  +B16  -W1   -B11  +W34  +B14  -W13  =B15   |    0.0 
+ 20 Zwierzynski,Pawel              1959     NSW  5.5 | +B81  -W2   +B62  +W31  +B7   -W4   +B18  =W15  -B8    |    0.0 
+ 21 Kargosha,Bahman                2276  FM NSW  5.5 | -W41  +B61  +W56  +B23  +W17  -B3   =W24  -W10  +B29   |    0.0 
+ 22 Rusakov,Jean                   2058     NSW  5.5 | +B51  +W44  +W28  -B25  =W10  -B8   +W42  +B41  -B7    |    0.0 
+ 23 Munkhbat,Anand                 1973      OS  5.5 | +B84  -W4   +B35  -W21  +B54  -W5   =B45  +W43  +W41   |    0.0 
+ 24 Coy,Rupert                     2026     NSW  5.5 | +W69  -B10  -W44  +B61  +W56  +B49  =B21  -W8   +W42   |    0.0 
+ 25 Zhu,Harvey                     2222     NSW  5.0 | +B54  +W48  +B13  +W22  -B1   +W11  -B4   -W2   -W17   |    0.0 
+ 26 Bajrami,Samir                  2099     NSW  5.0 | +W61  =B53  +W8   -B12  -W41  +B33  -W11  =B35  +W46   |    0.0 
+ 27 Yang,Scott                     1936     NZL  5.0 | +B82  +W5   -B2   -W18  +B69  +W31  -B13  +W48  -B16   |    0.0 
+ 28 Plant,John Stuart              2271     NSW  5.0 | +B58  +W66  -B22  +W40  -B13  -W14  +B36  -W34  +B44   |    0.0 
+ 29 Zhang,Chenghan                    0     VIC  5.0 | +W47  -B12  +W77  +B37  -W15  +B53  -B16  +W40  -W21   |    0.0 
+ 30 Yu,Michael                     2128     NSW  5.0 | +B45  +W52  -B1   =W43  -B44  +W35  -B41  =W33  +B54   |    0.0 
+ 31 Falchoni,Mario J F             2140     NSW  5.0 | +W60  -B11  +W67  -B20  +W38  -B27  -W46  +B59  +W47   |    0.0 
+ 32 Goredema,Dione                 2100     NSW  5.0 | +B62  +W38  -B4   -W11  -B46  +W74  +B58  +W44  -B14   |    0.0 
+ 33 Sivaraj,Avinav                 1001     NSW  5.0 | +B43  -W16  -B38  =W35  +B72  -W26  +W53  =B30  +W52   |    0.0 
+ 34 Granjas,Dragan                 1951     NSW  5.0 | +W57  -B3   +W74  -B6   +W65  -B19  +W51  +B28  -W12   |    0.0 
+ 35 Merugu,Rudransh                1609     NSW  5.0 | -W3   +B57  -W23  =B33  +W64  -B30  +W76  =W26  +B48   |    0.0 
+ 36 Carvajal,Felipe                1861     COL  5.0 |  --   +W55  +B50  -W13  -B5   +B61  -W28  +B51  +W49   |    0.0 
+ 37 Brown,Heath                    2002     NSW  5.0 | +B70  -W1   +B65  -W29  +B58  +W46  -B5   +W50  -B18   |    0.0 
+ 38 Cendana,Darren                 1845     NSW  5.0 | +W79  -B32  +W33  -B8   -B31  -W45  +W61  +B69  +B50   |    0.0 
+ 39 Siva Sankaran,Anup Kumar       1872     NSW  5.0 | +B80  -W18  =B63  +W72  =B66  -W16  -B50  +W58  +B55   |    0.0 
+ 40 Rambukwella,Ashley             1962     NSW  5.0 | +W83  -B19  +W73  -B28  +W67  -B17  +W49  -B29  +W60   |    0.0 
+ 41 Lawes,Alexander                1669     NSW  4.5 | +B21  -W13  =B66  +W63  +B26  -B10  +W30  -W22  -B23   |    0.0 
+ 42 Thomas,Tushar                  1859     IND  4.5 | =W64  -B6   -W47  +B77  +B50  +W43  -B22  +W45  -B24   |    0.0 
+ 43 Milson,Tyler                   1917     NSW  4.5 | -W33  +B68  +W78  =B30  -W8   -B42  +W64  -B23  +B65   |    0.0 
+ 44 Iskandar,Richard Putra         1671     NSW  4.0 | +W9   -B22  +B24  +W16  +W30  -B15  -W12  -B32  -W28   |    0.0 
+ 45 Shaw,William                   1592     TAS  4.0 | -W30  +B80  -W14  -B47  +W78  +B38  =W23  -B42  =W53   |    0.0 
+ 46 Kyaw,Michael                   1771     NSW  4.0 | -W8   +B75  -W9   +B68  +W32  -B37  +B31  -W18  -B26   |    0.0 
+ 47 Rosario,Amiel                  1815     NSW  4.0 | -B29  -W63  +B42  +W45  -B16  -W51  +B68  +W62  -B31   |    0.0 
+ 48 Welch,Ian                      1970     NSW  4.0 | +W76  -B25  +W59  -B9   -W49  +B60  +W56  -B27  -W35   |    0.0 
+ 49 Jain,Kamal                     1762     NSW  4.0 | -W10  +B69  -B5   +W51  +B48  -W24  -B40  +W57  -B36   |    0.0 
+ 50 Chang,Chong Yew                   0     NSW  4.0 | -W11  +B60  -W36  +B74  -W42  +B67  +W39  -B37  -W38   |    0.0 
+ 51 Hamilton,Kevin                 1485     NSW  4.0 | -W22  -B9   +W80  -B49  +W57  +B47  -B34  -W36  +B67   |    0.0 
+ 52 He,Nathan                      1884     NSW  4.0 | +F86  -B30  +W76  -B17  +W70  -W18  +B55  -W14  -B33   |    0.0 
+ 53 Boss,Stephen                   1856     NSW  4.0 | +B72  =W26  -B15  -W66  +B63  -W29  -B33  +W76  =B45   |    0.0 
+ 54 Wong,Benjamin                  1628     NSW  4.0 | -W25  -B76  +W57  +B78  -W23  +B70  +W66  -B17  -W30   |    0.0 
+ 55 Gorantla,Karunya               1473     NSW  4.0 | -W12  -B36  +W79  -B67  +W73  +B65  -W52  +B56  -W39   |    0.0 
+ 56 Dingley,Justin                 1763     NSW  4.0 | -B1   +W70  -B21  +W62  -B24  +W68  -B48  -W55  +B71   |    0.0 
+ 57 Xu,Kevin                       1162     NSW  4.0 | -B34  -W35  -B54  +W71  -B51  +W75  +B63  -B49  +W73   |    0.0 
+ 58 Maleki,Aiden                   1639     NSW  4.0 | -W28  -B78  +W83  +B75  -W37  +B69  -W32  -B39  +W70   |    0.0 
+ 59 Rupasinghe,Chanya              1639     NSW  4.0 | -B7   +W71  -B48  -W69  -B68  +W84  +B72  -W31  +B75   |    0.0 
+ 60 Heath,Charlie                  1598     NSW  4.0 | -B31  -W50  -B70  +W82  +B81  -W48  +B71  +W66  -B40   |    0.0 
+ 61 Mayer,Frederick                1525     NSW  4.0 | -B26  -W21  +B84  -W24  +B80  -W36  -B38  +W81  +F66   |    0.0 
+ 62 Luo,Nelson                     1546     NSW  4.0 | -W32  +B79  -W20  -B56  -W76  +B81  +W78  -B47  +W69   |    0.0 
+ 63 Su,Joey                        1447     NSW  3.5 | -W17  +B47  =W39  -B41  -W53  -B64  -W57  +B78  +W77   |    0.0 
+ 64 Vijayvergia,Vivaan                0     IND  3.5 | =B42  -W15  -B72  +W84  -B35  +W63  -B43  -W67  +B76   |    0.0 
+ 65 Beydoun,Ghassan                1618     NSW  3.5 | -W19  +B83  -W37  +B76  -B34  -W55  =BYE  +B70  -W43   |    0.0 
+ 66 Kordahi,Nicholas               1990     NSW  3.0 | +W78  -B28  =W41  +B53  =W39  -W7   -B54  -B60  -F61   |    0.0 
+ 67 Hemsley,Steven E               1685     NSW  3.0 | -B4   +W84  -B31  +W55  -B40  -W50  -W69  +B64  -W51   |    0.0 
+ 68 Miscenko,Dean                  1483     NSW  3.0 | -B13  -W43  +B71  -W46  +W59  -B56  -W47  -B75  +W79   |    0.0 
+ 69 Tsai,Bruce                     1439     NSW  3.0 | -B24  -W49  +B82  +B59  -W27  -W58  +B67  -W38  -B62   |    0.0 
+ 70 Thakur,Abhishek                1413      OS  3.0 | -W37  -B56  +W60  +B73  -B52  -W54  +B74  -W65  -B58   |    0.0 
+ 71 He,Timothy                     1275     NSW  3.0 | -W14  -B59  -W68  -B57  +W77  +B73  -W60  +B74  -W56   |    0.0 
+ 72 Willis,Lawson                     0     NSW  3.0 | -W53  =B77  +W64  -B39  -W33  =B76  -W59  -B73  +W78   |    0.0 
+ 73 Robinson,Andrew                1622     NSW  3.0 | -B2   +W81  -B40  -W70  -B55  -W71  +B82  +W72  -B57   |    0.0 
+ 74 Hughes,Aaron                   1613     NSW  3.0 | -B5   +W82  -B34  -W50  +B75  -B32  -W70  -W71  +B81   |    0.0 
+ 75 Huang,Christian                1468     NSW  3.0 | -B16  -W46  +B81  -W58  -W74  -B57  +B79  +W68  -W59   |    0.0 
+ 76 Chow,David                     1347     NSW  2.5 | -B48  +W54  -B52  -W65  +B62  =W72  -B35  -B53  -W64   |    0.0 
+ 77 Gandharva,Rahul                1573     NSW  2.5 | -B18  =W72  -B29  -W42  -B71  -W80  +B83  +W84  -B63   |    0.0 
+ 78 Scott,Daniel                   1363     NSW  2.0 | -B66  +W58  -B43  -W54  -B45  +W82  -B62  -W63  -B72   |    0.0 
+ 79 Willis,Mark                       0     NSW  2.0 | -B38  -W62  -B55  -W81  -B84  +B83  -W75  +W82  -B68   |    0.0 
+ 80 Riabov,Anton               (W)    0     RUS  2.0 | -W39  -W45  -B51  +B83  -W61  +B77   --    --    --    |    0.0 
+ 81 Ullah,Sami                     1219     NSW  2.0 | -W20  -B73  -W75  +B79  -W60  -W62  +B84  -B61  -W74   |    0.0 
+ 82 Slingo,Samuel                  1068     NSW  2.0 | -W27  -B74  -W69  -B60  +W83  -B78  -W73  -B79  +BYE   |    0.0 
+ 83 Tracey,Michael J               1238     NSW  2.0 | -B40  -W65  -B58  -W80  -B82  -W79  -W77  +BYE  +B84   |    0.0 
+ 84 Beydoun,Maan                   1362     NSW  1.0 | -W23  -B67  -W61  -B64  +W79  -B59  -W81  -B77  -W83   |    0.0 
+ 85 Tran,Huy Thong             (W) 1485     NSW  0.0 |  --    --    --    --    --    --    --    --    --    |    0.0 
+ 86 Clifford,Liam              (W)    0     NSW  0.0 | -F52   --    --    --    --    --    --    --    --    |    0.0 
