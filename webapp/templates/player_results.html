@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Player Results</title>
+</head>
+<body>
+    <h1>Results for Player Position {{ position }}</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Round</th>
+                <th>Opponent Name</th>
+                <th>Opponent Position</th>
+                <th>Result</th>
+                <th>Color</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for result in results %}
+            <tr>
+                <td>{{ result.round }}</td>
+                <td>{{ result.opponent_name }}</td>
+                <td>{{ result.opponent_position }}</td>
+                <td>{{ result.result }}</td>
+                <td>{{ result.color }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <a href="/">Go Back</a>
+</body>
+</html>
+
